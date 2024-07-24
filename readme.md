@@ -115,6 +115,6 @@ href='https://github.com/shivamkapasia0' target="_blank"><img alt='SEABORN' src=
 ---
 <div align="center">
 
-![BuiltWithLove](https://forthebadge.com/images/badges/built-with-love.svg)
+![MadeWithLove](https://forthebadge.com/images/badges/made-with-love__.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-in-python.svg)
 </div>
